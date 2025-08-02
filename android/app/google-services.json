@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "657755376445",
+    "project_id": "pharmacytrackerapp",
+    "storage_bucket": "pharmacytrackerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657755376445:android:5bdbf8422a57c5d7d4d354",
+        "android_client_info": {
+          "package_name": "com.example.pharmacytrackerapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuWaEfj0ytf2W1tpP5iGf4wt5CxE8ORCA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
